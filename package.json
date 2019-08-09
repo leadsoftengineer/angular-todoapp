@@ -1,6 +1,7 @@
 {
   "name": "angular-todolist",
   "version": "0.0.0",
+  "author": "smolynx2019@hotmail.com",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

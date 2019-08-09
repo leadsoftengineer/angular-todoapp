@@ -1,3 +1,6 @@
+/**
+ smolynx2019@hotmail.com
+ **/
 import { Component } from '@angular/core';
 
 @Component({
